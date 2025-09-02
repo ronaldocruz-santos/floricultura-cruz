@@ -31,7 +31,7 @@ nav a {
 }
 
 .hero {
-  background: url('img/background.png') no-repeat center center/cover;
+  background: url('background.png') no-repeat center center/cover;
   color: #022b0b;
   padding: 60px 20px;
   text-align: center;
@@ -113,4 +113,5 @@ footer {
   .section {
     padding: 20px 10px;
   }
+
 }
